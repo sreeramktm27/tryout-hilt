@@ -1,2 +1,2 @@
 # tryout-hilt
-A sample project to learn how hilt works from Android CodeLabs.
+A sample project to learn how hilt works in Android.
